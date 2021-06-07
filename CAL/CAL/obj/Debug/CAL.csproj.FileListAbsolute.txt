@@ -1,0 +1,10 @@
+C:\Users\Emi\source\repos\CAL\CAL\bin\Debug\CAL.exe.config
+C:\Users\Emi\source\repos\CAL\CAL\bin\Debug\CAL.exe
+C:\Users\Emi\source\repos\CAL\CAL\bin\Debug\CAL.pdb
+C:\Users\Emi\source\repos\CAL\CAL\obj\Debug\CAL.csproj.AssemblyReference.cache
+C:\Users\Emi\source\repos\CAL\CAL\obj\Debug\CAL.Form1.resources
+C:\Users\Emi\source\repos\CAL\CAL\obj\Debug\CAL.Properties.Resources.resources
+C:\Users\Emi\source\repos\CAL\CAL\obj\Debug\CAL.csproj.GenerateResource.cache
+C:\Users\Emi\source\repos\CAL\CAL\obj\Debug\CAL.csproj.CoreCompileInputs.cache
+C:\Users\Emi\source\repos\CAL\CAL\obj\Debug\CAL.exe
+C:\Users\Emi\source\repos\CAL\CAL\obj\Debug\CAL.pdb
